@@ -2,7 +2,7 @@
 
 # Juncture Repository Template
 
-<param ve-iframe
+<param ve-iframe 
 src="https://archive.org/embed/pet_rock_manual_original/page/n5/mode/2up"
 fit="contain">
 
